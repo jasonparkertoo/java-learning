@@ -1,0 +1,4 @@
+# Project exclude paths
+/spi-api/target/
+/spi-app/target/
+/spi-lib/target/
