@@ -10,6 +10,6 @@ public class CapitalizeTransformer implements StringTransformer {
 
     @Override
     public String transform(String s) {
-        return s.substring(0,1).toUpperCase() + s.substring(1).toLowerCase();
+        return s.substring(0, 1).toUpperCase() + s.substring(1).toLowerCase();
     }
 }
